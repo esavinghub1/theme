@@ -77,7 +77,10 @@
       ],
       "custom_css": [
         ".jdgm-rev-snippet-card__pic-wrapper {display: none;}",
-        "#more-payment-options-link {display: none !important;}"
+        "#more-payment-options-link {display: none !important;}",
+        ".jdgm-prev-badge__stars {font-size: 11px;}",
+        ".jdgm-widget {margin: 0; line-height: 1.4;}",
+        ".jdgm-prev-badge__text {margin-left: 3px !important; font-size: 14px !important;}"
       ],
       "settings": {
         "image_size": "medium",
