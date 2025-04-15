@@ -60,6 +60,10 @@
             "show_payment_icons": true,
             "custom_security_badge_width": 200
           }
+        },
+        "judge_me_reviews_review_snippet_widget_NKTdUa": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_snippet_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -68,7 +72,8 @@
         "buy_buttons",
         "description",
         "liquid_FYe6DG",
-        "trust_pQ6iGw"
+        "trust_pQ6iGw",
+        "judge_me_reviews_review_snippet_widget_NKTdUa"
       ],
       "custom_css": [
         ".jdgm-rev-snippet-card__pic-wrapper {display: none;}",
