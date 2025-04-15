@@ -95,6 +95,11 @@
         "type": "shopify://apps/livechat-live-chat-app/blocks/chat_widget/edc4358c-5386-40b3-a5a3-34aa308c6d45",
         "disabled": false,
         "settings": {}
+      },
+      "319724205969189013": {
+        "type": "shopify://apps/hulk-form-builder/blocks/app-embed/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
